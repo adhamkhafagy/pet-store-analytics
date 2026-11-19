@@ -122,5 +122,5 @@ Python (pandas), Power BI (Power Query, DAX, data modeling, what-if parameters).
 
 Adham Refaat Soliman
 
-- Portfolio: https://adhamkhafagy.github.io
+- Portfolio: https://adhamkhafagy.lovable.app
 - GitHub: https://github.com/adhamkhafagy
